@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272639286933",
+    "firebase_url": "https://ace-wording-246020.firebaseio.com",
+    "project_id": "ace-wording-246020",
+    "storage_bucket": "ace-wording-246020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272639286933:android:f53195d04aeb850db7859c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272639286933-reckmlt47ts5vk2tse6ivll9n9ade0ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0FbMSX01C8rvK6c9kWVmJsSumLIvPCNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272639286933-reckmlt47ts5vk2tse6ivll9n9ade0ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
